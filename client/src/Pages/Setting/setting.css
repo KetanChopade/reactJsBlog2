@@ -1,0 +1,40 @@
+.settingsTitleUpdate {
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: lightcoral;
+  }
+  
+  .settingsTitleDelete {
+    color: red;
+    font-size: 12px;
+    cursor: pointer;
+  }
+  .settingsPP img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 15px;
+    cursor: pointer;
+}
+i.settingsPPIcon {
+    width: 25px;
+    height: 25px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-radius: 50%;
+    margin-left: 10px;
+    color: white;
+    background-color: lightcoral;
+    cursor: pointer;
+}
+button.writeSubmit {
+    background-color: teal;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 10px;
+    width: 150px;
+}

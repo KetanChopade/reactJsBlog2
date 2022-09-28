@@ -1,0 +1,13 @@
+.writeImg {
+    object-fit: cover;
+    width: 100%;
+    height: 250px;
+  }
+
+.writeFormGroup textarea {
+    height: 200px;
+}
+.writeFormGroup {
+    text-align: center;
+    text-align: -webkit-center;
+}

@@ -1,0 +1,27 @@
+.topbar-main {
+    font-family: 'Josefin Sans', sans-serif;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+.top-img-prof {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 15px;
+    cursor: pointer;
+  }
+  .navbar-brands {
+    cursor: pointer;
+    color: #212529;
+    font-weight: 900;
+    margin-right: 15px;
+  }  
+  .navLR {
+    display: flex;
+}
+.navloign ,.navRegister {
+  margin-right: 10px;
+  color: #0000007a;
+}
